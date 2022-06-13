@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abylinjohnson&label=Profile%20views&color=0e75b6&style=flat" alt="abylinjohnson" /> </p>
 
 
-- 🔭 I’m currently working on **tales.me**
+- 🔭 I’m currently working on **tales.by**
 
 - 🌱 I’m currently learning **Rust, Node JS and Deno.**
 
