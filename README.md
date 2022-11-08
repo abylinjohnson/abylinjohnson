@@ -5,8 +5,6 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **tales.by**
-
 - 🌱 I’m currently learning **Rust, Node JS and Deno.**
 
 - 👯 I’m looking to collaborate on **Node JS, Python, Arduino and IOT**
