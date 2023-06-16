@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning **Rust, Node JS and Deno.**
+- 🌱 I’m currently learning **System Administration and Cyber Scruity**
 
 - 👯 I’m looking to collaborate on **Node JS, Python, Arduino and IOT**
 
