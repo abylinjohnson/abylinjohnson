@@ -1,12 +1,21 @@
-<h1 align="center">Hi 👋, I'm Abylin Johnson</h1>
+# Hi, I'm Abylin Johnson
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=abylinjohnson&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abylinjohnson&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Full-stack developer working on AI-driven systems.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## What I do
 
----
-[![](https://visitcount.itsvg.in/api?id=abylinjohnson&icon=1&color=0)](https://visitcount.itsvg.in)
+* Build web apps with React, Next.js, Node.js, AI, LLMs, and backend systems
+* Working on small SaaS ideas
 
+## Current focus
+
+* AI + backend engineering
+* Shipping real projects
+* Learning as I build
+
+## Tech
+
+* JavaScript / TypeScript
+* React / Next.js
+* Node.js
+* Python
